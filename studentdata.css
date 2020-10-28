@@ -1,0 +1,24 @@
+STUDENTDATA {
+    background-color: #ffffff;
+    width: 100%;
+}
+student {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+STUDENTNAME {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+COURSE {
+    display: block;
+    color: #0000ff;
+    font-size: 20pt;
+}
+COUNTRY, REGISTRATION_NO, HOSTEL_BLOCK{
+    display: block;
+    color: #000000;
+    margin-left: 20pt;
+}
